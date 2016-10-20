@@ -1,0 +1,23 @@
+{
+  "name": "hti",
+  "version": "1.0.0",
+  "description": "transform host to ip",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/echosoar/hostToIp.git"
+  },
+  "keywords": [
+    "host",
+    "ip"
+  ],
+  "author": "echosoar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/echosoar/hostToIp/issues"
+  },
+  "homepage": "https://github.com/echosoar/hostToIp#readme"
+}
